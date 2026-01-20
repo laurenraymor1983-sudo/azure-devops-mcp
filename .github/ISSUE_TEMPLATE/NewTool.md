@@ -20,7 +20,7 @@ Endpoint: POST https://almsearch.dev.azure.com/{organization}/{project}/_apis/se
 
 ## `search_code`: Search Azure DevOps Repos for relevant code results.
 
-Endpoint: POST https://almsearch.dev.azure.com/{organization}/{project}/_apis/search/codesearchresults?api-version=7.2-preview.1
+Endpoint: POST [`https://almsearch.dev.azure.com/{organization}/{project}/_apis/search/codesearchresults?api-version=7.2-preview.1`](https://almsearch.dev.azure.com/{organization}/{project}/_apis/search/codesearchresults?api-version=7.2-preview.1)
 
 # Rules
 
